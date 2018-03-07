@@ -6,7 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="app.css">
 </head>
 
-<body class="text-center vertical-center" style="display: flex;align-items: center;"> 
+<body class="text-center vertical-center" style="display: flex;align-items: center;background-color: lightblue"> 
 <!--form that assigns login or register values to $_GET depending on which input button is pressed by user  -->
 
 <div class="col-md-4 offset-md-4 ">

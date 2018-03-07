@@ -5,24 +5,13 @@
 
 }
 
-@font-face 
-{
-	font-family:Fira Code Bold;
-	src: url('/fonts/FiraCode-Bold.otf');
-}
 
 *{
 	font-family: Fira Code Regular;
 }
 
-.card-img-right {
-  height: 200px;
-  width:200px;
-  border-radius: 0 3px 3px 0;
-  overflow-x: hidden;
-}
 
-.box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+
 
 .vertical-center {
   min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
