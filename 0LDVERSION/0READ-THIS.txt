@@ -1,0 +1,5 @@
+This is the old version of the project that I made few months ago
+
+when my knowledge of OOP and MVC weren't on the level they are today.
+
+I decided to keep this in the repo to show my progress.

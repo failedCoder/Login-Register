@@ -1,0 +1,28 @@
+@font-face 
+{
+	font-family:Fira Code Regular;
+	src: url('/fonts/FiraCode-Regular.otf');
+
+}
+
+
+*{
+	font-family: Fira Code Regular;
+}
+
+body{
+	background-color: lightblue;
+}
+
+.vertical-center {
+  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+  min-height: 100vh; /* These two lines are counted as one :-)       */
+
+  display: flex;
+  align-items: center;
+}
+
+.first-letter::first-letter{
+    font-size: 200%;
+}
+
